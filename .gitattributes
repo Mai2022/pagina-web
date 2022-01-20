@@ -36,9 +36,7 @@
 *.sass     text
 *.scm      text
 *.scss     text
-*.sh       text eol=lf
-*.sql      text
-*.styl     text
+*.sh       text eol=lfgit@github.com:Mai2022/pagina-web.git
 *.tag      text
 *.ts       text
 *.tsx      text
